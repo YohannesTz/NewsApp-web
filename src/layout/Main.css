@@ -1,0 +1,7 @@
+.news-feed {
+    float: left;
+    width: 50%;
+    background: red;
+    height: 100%;
+    overflow-y: scroll;
+}
